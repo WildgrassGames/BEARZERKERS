@@ -9,3 +9,5 @@ Including a screenshot means there can be no mistaking where the bug occured, an
 Add any relevant labels to your issue to help us categorize it.
 
 Thanks for supporting us and we hope to fix any issues you find soon!
+
+Click below to report issues you find that need to be fixed or features you'd like to request. https://github.com/WildgrassGames/BEARZERKERS/issues
